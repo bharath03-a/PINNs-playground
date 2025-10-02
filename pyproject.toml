@@ -9,8 +9,10 @@ dependencies = [
     "matplotlib>=3.10.6",
     "numpy>=2.3.3",
     "pandas>=2.3.2",
+    "prettyprint>=0.1.5",
     "pydoe>=0.3.8",
     "scipy>=1.16.2",
     "seaborn>=0.13.2",
     "tensorflow>=2.20.0",
+    "tqdm>=4.67.1",
 ]
